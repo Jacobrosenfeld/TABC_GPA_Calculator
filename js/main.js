@@ -28,7 +28,7 @@ weightApp.controller('CalcController', function ($scope) {
 	if (localStorage.units === '' || localStorage.units === null || localStorage.units === undefined) {
 		$scope.units = base_units;
 	}
-	else {
+	else{
 		$scope.units = angular.fromJson(localStorage.units);
 	}
 
