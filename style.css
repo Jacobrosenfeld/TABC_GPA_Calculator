@@ -1,0 +1,30 @@
+body {
+	padding-bottom: 50px;
+}
+.row {
+	max-width: 70%;
+}
+
+.grade {
+	text-align: right;
+	font-weight: bold;
+    font-size: 300%;
+	margin-right: 10px;
+}
+
+button {
+	float: right;
+}
+
+.unit {
+	border-bottom: 1px solid black;
+	margin-bottom: 15px;
+}
+
+.unit-name {
+	font-weight: 200;
+	padding: 20px !important;
+	text-align: center !important;
+	font-size: 125% !important;
+	font-variant: small;
+}
