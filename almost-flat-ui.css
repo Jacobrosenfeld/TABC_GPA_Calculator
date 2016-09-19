@@ -4779,7 +4779,6 @@ input[type="submit"].primary-dark:active {
   background-image: -moz-linear-gradient(#2980b9, #2980b9);
   background-image: -o-linear-gradient(#2980b9, #2980b9);
   background-image: linear-gradient(#2980b9, #2980b9);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -4819,7 +4818,6 @@ input[type="submit"].secondary:active {
   background-image: -moz-linear-gradient(#ecf0f1, #ecf0f1);
   background-image: -o-linear-gradient(#ecf0f1, #ecf0f1);
   background-image: linear-gradient(#ecf0f1, #ecf0f1);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -4858,7 +4856,6 @@ input[type="submit"].success:active {
   background-image: -moz-linear-gradient(d62c1b, d62c1b);
   background-image: -o-linear-gradient(d62c1b, d62c1b);
   background-image: linear-gradient(d62c1b, d62c1b);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -4897,7 +4894,6 @@ input[type="submit"].success-dark:active {
   background-image: -moz-linear-gradient(#1abc9c, #1abc9c);
   background-image: -o-linear-gradient(#1abc9c, #1abc9c);
   background-image: linear-gradient(#1abc9c, #1abc9c);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -4936,7 +4932,6 @@ input[type="submit"].success-darker:active {
   background-image: -moz-linear-gradient(#27ae60, #27ae60);
   background-image: -o-linear-gradient(#27ae60, #27ae60);
   background-image: linear-gradient(#27ae60, #27ae60);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -4975,7 +4970,6 @@ input[type="submit"].success-darkest:active {
   background-image: -moz-linear-gradient(#16a085, #16a085);
   background-image: -o-linear-gradient(#16a085, #16a085);
   background-image: linear-gradient(#16a085, #16a085);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -5014,7 +5008,6 @@ input[type="submit"].alert:active {
   background-image: -moz-linear-gradient(#e74c3c, #e74c3c);
   background-image: -o-linear-gradient(#e74c3c, #e74c3c);
   background-image: linear-gradient(#e74c3c, #e74c3c);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -5053,7 +5046,6 @@ input[type="submit"].alert-dark:active {
   background-image: -moz-linear-gradient(#c0392b, #c0392b);
   background-image: -o-linear-gradient(#c0392b, #c0392b);
   background-image: linear-gradient(#c0392b, #c0392b);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -5092,7 +5084,6 @@ input[type="submit"].info:active {
   background-image: -moz-linear-gradient(#f1c40f, #f1c40f);
   background-image: -o-linear-gradient(#f1c40f, #f1c40f);
   background-image: linear-gradient(#f1c40f, #f1c40f);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -5131,7 +5122,6 @@ input[type="submit"].info-dark:active {
   background-image: -moz-linear-gradient(#f39c12, #f39c12);
   background-image: -o-linear-gradient(#f39c12, #f39c12);
   background-image: linear-gradient(#f39c12, #f39c12);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -5170,7 +5160,6 @@ input[type="submit"].warning:active {
   background-image: -moz-linear-gradient(#e67e22, #e67e22);
   background-image: -o-linear-gradient(#e67e22, #e67e22);
   background-image: linear-gradient(#e67e22, #e67e22);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -5209,7 +5198,6 @@ input[type="submit"].warning-dark:active {
   background-image: -moz-linear-gradient(#d35400, #d35400);
   background-image: -o-linear-gradient(#d35400, #d35400);
   background-image: linear-gradient(#d35400, #d35400);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -5248,7 +5236,6 @@ input[type="submit"].highlight:active {
   background-image: -moz-linear-gradient(#9859b6, #9859b6);
   background-image: -o-linear-gradient(#9859b6, #9859b6);
   background-image: linear-gradient(#9859b6, #9859b6);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -5287,7 +5274,6 @@ input[type="submit"].highlight-dark:active {
   background-image: -moz-linear-gradient(#8e44ad, #8e44ad);
   background-image: -o-linear-gradient(#8e44ad, #8e44ad);
   background-image: linear-gradient(#8e44ad, #8e44ad);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -5326,7 +5312,6 @@ input[type="submit"].inverse:active {
   background-image: -moz-linear-gradient(#34495e, #34495e);
   background-image: -o-linear-gradient(#34495e, #34495e);
   background-image: linear-gradient(#34495e, #34495e);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -5365,7 +5350,6 @@ input[type="submit"].inverse-dark:active {
   background-image: -moz-linear-gradient(#2c3e50, #2c3e50);
   background-image: -o-linear-gradient(#2c3e50, #2c3e50);
   background-image: linear-gradient(#2c3e50, #2c3e50);
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=95);
   opacity: 0.95;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
